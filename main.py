@@ -1,7 +1,7 @@
 # Program to add two matrices using nested loop
 
 X = [[1,2,3],
-	[16 ,5,6],
+	[16 ,10,6],
 	[72,84,90]]
 
 Y = [[9,8,7],
