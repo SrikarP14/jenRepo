@@ -1,6 +1,6 @@
 # Program to add two matrices using nested loop
 
-X = [[1,2,3],
+X = [[11,2,3],
 	[16 ,10,6],
 	[72,84,90]]
 
